@@ -1,0 +1,7 @@
+{
+  "name": "js-sha256",
+  "main": "src/sha256.js",
+  "repo": "segmentio/js-sha256",
+  "description": "A simple SHA-256 / SHA-224 hash function for JavaScript supports UTF-8 encoding.",
+  "version": "0.1.1"
+}
